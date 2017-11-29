@@ -5,15 +5,25 @@
   text-align: center;
 }
 
-h1 {
-  font-weight: bold;
-  font-size: 42px;
+#discover {
+  font-weight: normal;
+  font-size: 50px;
 }
 
 a {
-  color: lightgreen;
-
+  color: aquamarine;
 }
-.footer {
+#excursion {
+  font-size: 21px;
+  color: gray;
+}
+
+#travel {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#footer {
+  color: gray;
   text-align: right;
 }
